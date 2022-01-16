@@ -1,6 +1,4 @@
 # Java Assignment
 Assignment 1 of CDS [PBD-1804].
-<center>
-Student Name  :   Dishang Mehta
+Student Name  :   Dishang Mehta <br>
 Roll No.      :   21-PBD-017
-</center>
